@@ -2,7 +2,7 @@
 
 Member1:
 
-Member2:
+Member2: Charles Richardson
 
 Member3:
 
